@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<Data>
+  <RowDataBase>
+    <Base>"stb-bapp-003"--"stbnew"</Base>
+    <Caption>СТБ</Caption>
+    <ClientType>ThickClient</ClientType>
+  </RowDataBase>
+  <RowDataBase>
+	<Base>"stb-bapp-003"--"stb_ghb"</Base>
+	<Caption>ГХБ</Caption>
+	<ClientType>ThickClient</ClientType>
+  </RowDataBase>
+  <RowDataBase>
+	<Base>"stb-bapp-003"--"stb_manageresources"</Base>
+	<Caption>Ресурсы</Caption>
+	<ClientType>ThinClient</ClientType>
+  </RowDataBase>
+</Data>
